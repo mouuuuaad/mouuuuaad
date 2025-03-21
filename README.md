@@ -2,7 +2,7 @@
 🖌️ Frontend Developer | 🎨 UI/UX Designer | 🚀 Innovator
 
 🚀 About Me
-I'm Mouaad Idoufkir, a passionate Frontend Developer and creative UI/UX Designer from Morocco. At just 17 years old, I'm shaping the future of the web with cutting-edge designs and seamless user experiences. I specialize in crafting modern, interactive, and feature-rich applications that blend functionality with aesthetic excellence.
+I'm Mouaad Idoufkir, a passionate Frontend Developer and creative UI/UX Designer from Morocco. At just 18 years old, I'm shaping the future of the web with cutting-edge designs and seamless user experiences. I specialize in crafting modern, interactive, and feature-rich applications that blend functionality with aesthetic excellence.
 
 My journey is fueled by a relentless curiosity and a drive to push boundaries in web development, artificial intelligence, and physics.
 
