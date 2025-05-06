@@ -1,76 +1,25 @@
-# 👨‍💻 Mouaad Idoufkir  
-**Software Developer | UI/UX Designer | Creator of DarijaScript | Innovator**
+<h1 align="center">Hi 👋, I'm Mouaad Idoufkir</h1>
+<h3 align="center">Software Developer | UI/UX Designer | Creator of DarijaScript | Innovator</h3>
 
----
+- 👨‍💻 All of my projects are available at [github](github)
 
-## 🚀 About Me  
-I’m **Mouaad Idoufkir**, an 18-year-old **Software Developer** from **Morocco** with a passion for building creative, scalable, and intelligent digital experiences. My journey began in frontend development, but has since expanded into **full software engineering**, **tool-making**, and even **language creation**.
+- 💬 Ask me about **React (Advanced hooks, context API, and React Server components) Next.js (Server-side rendering, static generation, and API routes) Node.js (Express.js, server-side routing, and RESTful APIs) Tailwind CSS (Utility-first CSS, custom theming, and responsiveness) GSAP (Advanced animations and interactive motion design) Framer Motion (Advanced animations in React) WebGL/Three.js (Creating interactive 3D experiences) Redux (State management and middleware like Redux-Saga/Thunk) Vue.js (Learning Vue 3 and Composition API)**
 
-I specialize in crafting seamless interfaces, smart systems, and cultural innovations like **DarijaScript** — a programming language inspired by Moroccan Darija 🇲🇦.
+- 📫 How to reach me **mouaadidoufkir2@gmail.com**
 
-Whether it’s a complex UI, a custom dev tool, or an entirely new way to code, I love solving hard problems with clean design, powerful code, and meaningful purpose.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mouaadz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mouaadz1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mouaad idoufkir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouaad idoufkir" height="30" width="40" /></a>
+<a href="https://fb.com/mouaad idoufkir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mouaad idoufkir" height="30" width="40" /></a>
+<a href="https://instagram.com/mouaadid_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mouaadid_dev" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-## 🧠 What I’m Working On  
-- 🧪 **DarijaScript** – A programming language that brings Moroccan culture into code  
-- 🤖 Merging **AI** with frontend & backend tech to build adaptive applications  
-- 🌍 Building **local-first**, multilingual web apps  
-- 🔬 Learning advanced **math and physics** to push the limits of creative computing  
-- 🧰 Developing **open-source tools** for global devs and creators  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouuuuaad&show_icons=true&locale=en&layout=compact" alt="mouuuuaad" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouuuuaad&show_icons=true&locale=en" alt="mouuuuaad" /></p>
 
-## 🔧 Tech Stack  
-**Frontend:** React, Next.js, Tailwind CSS, JavaScript (ES6+), GSAP, Framer Motion  
-**Backend:** Node.js, Express.js, Firebase, MongoDB, SQLite  
-**Dev Tools:** Figma, Git, Postman, VS Code  
-**Experimental:** DarijaScript, WebGL, AI SDKs, Three.js  
-
-**Specialties:**  
-- 🖌️ UI/UX Design with modern aesthetics & animation  
-- 🛠️ Fullstack app development with real-time functionality  
-- 🌗 Dark/Light mode & RTL support  
-- 🌍 Multilingual and accessible interfaces  
-
----
-
-## 🌍 Featured Projects  
-### 🍔 Burger App Store  
-ECommerce site with stunning GSAP animations and rich interactivity.
-
-### 🛠️ Wolphapp  
-A job marketplace and tool store with secure user flows and clean UI/UX.
-
-### 🎨 Design Suite  
-A Canva-inspired creative tool built with Next.js and 20+ tools for design freedom.
-
-### 🌐 DarijaScript  
-A new programming language that speaks Moroccan Darija, making coding feel local and accessible.
-
----
-
-## 💡 Vision & Goals  
-- **Create tools that empower cultural identity in tech**  
-- **Bridge software, science, and design**  
-- **Make AI & complex systems more human-centered**  
-- **Mentor the next generation of innovators and dreamers**  
-
----
-
-## 🏆 Highlights  
-- 🏅 Certified Software & Frontend Developer – HackerRank  
-- 🌐 Creator of DarijaScript  
-- 🎨 Expert in web animation and UI/UX logic  
-- 🚀 Building both B2C and creative open-source apps  
-- 🧠 Research-focused mindset with a love for learning  
-
----
-
-## 📫 Let’s Connect  
-- 🌐 [Portfolio Website](#https://mouaad-idoufkir.vercel.app/)  
-- 🐦 [Twitter](#https://x.com/MouaadZ1)  
-- 📸 [Instagram](#https://www.instagram.com/mouaadid_dev/)  
-- 💼 [LinkedIn](#https://www.linkedin.com/in/mouaad-idoufkir-58712b304/)
-
-> Always open to collaboration, freelance projects, open-source initiatives, and research-based ideas. Let’s build the future together.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mouuuuaad&" alt="mouuuuaad" /></p>
