@@ -3,7 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **React (Advanced hooks, context API, and React Server components) Next.js (Server-side rendering, static generation, and API routes) Node.js (Express.js, server-side routing, and RESTful APIs) Tailwind CSS (Utility-first CSS, custom theming, and responsiveness) GSAP (Advanced animations and interactive motion design) Framer Motion (Advanced animations in React) WebGL/Three.js (Creating interactive 3D experiences) Redux (State management and middleware like Redux-Saga/Thunk) Vue.js (Learning Vue 3 and Composition API)**
+- 💬 I’m **Mouaad Idoufkir**, an 18-year-old **Full-stack Developer** and **UI/UX Designer** from **Morocco**, passionate about turning ideas into powerful, interactive, and beautiful web experiences. With a background in **Science Math Baccalaureat**, **I approach software with both logic and creativity**.
+
+I specialize in crafting responsive UIs, scalable systems, and immersive experiences through animations, design systems, and smart backend logic. I'm also the creator of **DarijaScript**, a new programming language inspired by Moroccan Darija 🇲🇦 — created to make code feel more local, intuitive, and culturally expressive.
 
 - 📫 How to reach me **mouaadidoufkir2@gmail.com**
 
