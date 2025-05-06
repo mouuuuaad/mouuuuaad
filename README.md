@@ -1,45 +1,78 @@
-👨‍💻 Mouaad Idoufkir
-🖌️ Frontend Developer | 🎨 UI/UX Designer | 🚀 Innovator
+# 👨‍💻 Mouaad Idoufkir  
+**Frontend Developer | UI/UX Designer | Creator of DarijaScript | Innovator**
 
-🚀 About Me
-I'm Mouaad Idoufkir, a passionate Frontend Developer and creative UI/UX Designer from Morocco. At just 18 years old, I'm shaping the future of the web with cutting-edge designs and seamless user experiences. I specialize in crafting modern, interactive, and feature-rich applications that blend functionality with aesthetic excellence.
+---
 
-My journey is fueled by a relentless curiosity and a drive to push boundaries in web development, artificial intelligence, and physics.
+## 🚀 About Me  
+I’m **Mouaad Idoufkir**, an 18-year-old developer and designer from **Morocco**, building digital experiences that merge creativity, technology, and culture. I specialize in **modern frontend development**, **advanced UI/UX design**, and **motion-rich applications**—and recently, I’ve taken a bold step into language development with my creation of **DarijaScript**, a programming language inspired by Moroccan Darija 🇲🇦.
 
-🔧 Tech Arsenal
-Languages & Frameworks:
-💻 Frontend: React, Next.js, Tailwind CSS, JavaScript (ES6+)
-🎨 Design Tools: Figma, Framer Motion, GSAP (3D Animations)
-Specialties:
-🖌️ Creating professional, modern designs with advanced animations
-🌐 Developing dynamic eCommerce platforms and interactive apps
-⚙️ Building feature-packed components (tables, sliders, 3D cards, and more)
-🌟 Core Projects
-Burger App Store 🍔
+Whether I’m building dynamic platforms, crafting smooth animations, or inventing new tools, my goal is always the same: **push boundaries, simplify complexity, and inspire innovation.**
 
-A dynamic and interactive eCommerce platform with GSAP animations and tailored UI/UX design for an engaging shopping experience.
+---
 
-Wolphapp 🛠️
+## 🧠 What’s New in My Journey  
+- 🧪 **Author of DarijaScript** – A language built to bring Moroccan identity to the coding world  
+- 🎯 Exploring **multilingual design systems** and **local-first applications**  
+- 🤖 Blending **AI** with **frontend engineering** for intelligent interfaces  
+- 🧬 Researching **physics & mathematics** to enhance creative computing  
+- 🛠️ Working on **open-source tools** for creators and learners  
 
-A job marketplace with an integrated online store for essential tools, featuring a secure and intuitive interface.
+---
 
-Design Suite 🎨
+## 🔧 Tech & Tools  
+**Languages & Frameworks:**  
+React, Next.js, JavaScript (ES6+), Tailwind CSS  
 
-A Canva-inspired design tool built with Next.js, featuring over 20 custom tools for advanced creativity and customization.
+**Motion & Design:**  
+Figma, Framer Motion, GSAP (3D), Three.js  
 
-💡 Vision & Goals
-🎯 Master AI Development: Combining my skills in frontend design and AI to create intelligent, user-driven solutions.
-🔬 Pursue Physics & AI Research: Explore the intersection of technology and science to contribute to groundbreaking discoveries.
-🌍 Inspire Innovation: Share knowledge and mentor others in building next-gen digital experiences.
-🌈 Highlights
-🏅 Certified Frontend Developer – HackerRank
-✨ Expert in Parallax, 3D effects, and advanced motion design
-🎨 Focused on modern, high-quality, and interactive web apps
-🌗 Supporting Dark & Light modes across projects
-📫 Let's Connect
-🌐 Portfolio Website
-🐦 Twitter
-📸 Instagram
-💼 LinkedIn
+**Experimental & Custom Work:**  
+DarijaScript, WebGL, AI SDKs  
 
-I’m always open to collaborations and creative projects. Let’s create something extraordinary together!
+**Strengths:**  
+- Multilingual & inclusive UI/UX  
+- Creative dev tools and components  
+- High-performance, animated web apps  
+- Dark/Light mode support, RTL support  
+
+---
+
+## 🌍 Key Projects  
+### 🍔 Burger App Store  
+A modern eCommerce platform powered by GSAP animations and smooth UI/UX.
+
+### 🛠️ Wolphapp  
+A job marketplace and tool store built for performance, security, and clarity.
+
+### 🎨 Design Suite  
+A Canva-style tool built in Next.js with 20+ features for creative freedom.
+
+### 🌐 DarijaScript  
+A culturally inspired programming language built on Moroccan Darija syntax.
+
+---
+
+## 💡 Vision  
+- **Empower North African devs** with culturally relevant tools like DarijaScript  
+- **Develop AI-driven interfaces** that understand and adapt to users  
+- **Share and mentor** the next generation of tech creators  
+- **Bridge science and design** through creative coding and research  
+
+---
+
+## 🏆 Highlights  
+- 🏅 Certified Frontend Developer – HackerRank  
+- 🚀 Author of **DarijaScript**  
+- 🎨 Expert in motion design (GSAP, Framer Motion)  
+- 🌗 Responsive, theme-aware interface builder  
+- 🔬 Tech meets science advocate  
+
+---
+
+## 📫 Let’s Connect  
+- 🌐 [Portfolio Website](#)  
+- 🐦 [Twitter](#)  
+- 📸 [Instagram](#)  
+- 💼 [LinkedIn](#)
+
+> I’m always open to collaborations, open-source ideas, and innovative projects. Let’s build something impactful together.
