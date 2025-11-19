@@ -1,17 +1,17 @@
-# 👋 السلام عليكم, I'm Mouaad Idoufkir
+# Hello👋, I'm Mouaad Idoufkir
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                   ║
-║     ███╗   ███╗ ██████╗ ██╗   ██╗ █████╗  █████╗ ██████╗                        ║
-║     ████╗ ████║██╔═══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗                       ║
-║     ██╔████╔██║██║   ██║██║   ██║███████║███████║██║  ██║                       ║
-║     ██║╚██╔╝██║██║   ██║██║   ██║██╔══██║██╔══██║██║  ██║                       ║
-║     ██║ ╚═╝ ██║╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝                       ║
-║     ╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝                        ║
+║     ███╗   ███╗ ██████╗ ██╗   ██╗ █████╗  █████╗ ██████╗                          ║
+║     ████╗ ████║██╔═══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗                         ║
+║     ██╔████╔██║██║   ██║██║   ██║███████║███████║██║  ██║                         ║
+║     ██║╚██╔╝██║██║   ██║██║   ██║██╔══██║██╔══██║██║  ██║                         ║
+║     ██║ ╚═╝ ██║╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝                         ║
+║     ╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝                          ║
 ║                                                                                   ║
-║          🚀 Software Developer & GenAI Developer | معاذ ادافقير 🇲🇦               ║
-║                   Self-Taught Developer | 5+ Years Experience                    ║
+║    🚀 Software Developer & GenAI Developer | معاذ ادافقير 🇲🇦                          ║    
+║        Self-Taught Developer | 5+ Years Experience                                ║
 ║                                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -21,13 +21,13 @@
 ```ascii
 ┌────────────────────────────────────────────────────────────────────┐
 │                                                                    │
-│  🎯 18 Years Old | Self-Taught Since 2020                         │
-│  🤖 GenAI Developer & AI Enthusiast                               │
-│  💻 Full-Stack Developer (MENN & PENN Stack)                      │
-│  🧠 Machine Learning & Deep Learning Practitioner                 │
-│  📍 Agadir, Souss-Massa, Morocco                                  │
-│  📈 1,085+ Contributions This Year                                │
-│  🌟 Building Intelligent Systems & Modern Web Applications        │
+│  🎯 18 Years Old | Self-Taught Since 2020                          │
+│  🤖 GenAI Developer & AI Enthusiast                                │
+│  💻 Full-Stack Developer (MENN & PENN Stack)                       │
+│  🧠 Machine Learning & Deep Learning Practitioner                  │
+│  📍 Agadir, Souss-Massa, Morocco                                   │
+│  📈 1,085+ Contributions This Year                                 │
+│  🌟 Building Intelligent Systems & Modern Web Applications         │
 │                                                                    │
 └────────────────────────────────────────────────────────────────────┘
 ```
@@ -49,14 +49,14 @@
 │                          TECH STACK                                 │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
-│  💻 Languages:     Python • TypeScript • JavaScript • Golang       │
-│  🎨 Frontend:      Vue.js • Next.js • React • Tailwind CSS         │
-│  ⚙️  Backend:       FastAPI • Node.js • Express.js • Fiber • Gin   │
-│  🗄️  Databases:     PostgreSQL • MongoDB • SQLite • Firebase       │
-│  🤖 AI/ML:         TensorFlow • PyTorch • Keras • scikit-learn     │
-│  🧠 GenAI:         LangChain • Hugging Face • OpenCV • Genkit      │
-│  📦 Stack:         MENN & PENN Stack                               │
-│  🐳 DevOps:        Docker • Kubernetes • Git                       │
+│  💻 Languages:     Python • TypeScript • JavaScript • Golang        │
+│  🎨 Frontend:      Vue.js • Next.js • React • Tailwind CSS          │
+│  ⚙️  Backend:       FastAPI • Node.js • Express.js • Fiber • Gin    │
+│  🗄️  Databases:     PostgreSQL • MongoDB • SQLite • Firebase        │
+│  🤖 AI/ML:         TensorFlow • PyTorch • Keras • scikit-learn      │
+│  🧠 GenAI:         LangChain • Hugging Face • OpenCV • Genkit       │
+│  📦 Stack:         MENN & PENN Stack                                │
+│  🐳 DevOps:        Docker • Kubernetes • Git                        │
 │                                                                     │
 ╰─────────────────────────────────────────────────────────────────────╯
 ```
@@ -107,26 +107,26 @@
 
 ```ascii
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                   ┃
-┃  🧮 Hsebli AI - AI Math Solver (Feb 2025 - Present)              ┃
-┃  ├─ Intelligent mathematical expression parser & solver          ┃
-┃  ├─ Step-by-step solution generation with symbolic computation   ┃
+┃                                                                 ┃
+┃  🧮 Hsebli AI - AI Math Solver (Feb 2025 - Present)             ┃
+┃  ├─ Intelligent mathematical expression parser & solver         ┃
+┃  ├─ Step-by-step solution generation with symbolic computation  ┃
 ┃  ├─ Tech: Golang, Next.js, Python, SymPy, PyTorch, PostgreSQL   ┃
-┃  └─ Features: LaTeX parsing, error correction, real-time API     ┃
-┃                                                                   ┃
-┃  📊 0day - Trading & Chart Analysis Platform (Jun-Aug 2025)      ┃
-┃  ├─ Shariah-compliant AI-powered trading insights platform       ┃
-┃  ├─ Real-time dashboards with advanced chart analysis            ┃
+┃  └─ Features: LaTeX parsing, error correction, real-time API    ┃
+┃                                                                 ┃
+┃  📊 0day - Trading & Chart Analysis Platform (Jun-Aug 2025)     ┃
+┃  ├─ Shariah-compliant AI-powered trading insights platform      ┃
+┃  ├─ Real-time dashboards with advanced chart analysis           ┃
 ┃  ├─ Tech: Next.js, Python, Genkit, Firebase, PostgreSQL         ┃
-┃  └─ Features: AI predictions, Islamic finance compliance         ┃
-┃                                                                   ┃
-┃  📱 Trading-Journal - Track & Analyze Your Trades                ┃
-┃  📊 charts-analytics-app - Data Visualization Dashboard          ┃
-┃  💤 SlumberAI - AI-Powered Sleep Tracking & Analysis             ┃
-┃  📚 Flashcards-Application - Smart Learning Platform             ┃
-┃  🎴 Luh-Al-Ibadaa - Islamic Application                          ┃
-┃  📝 darijaScript - Darija Programming Language                   ┃
-┃                                                                   ┃
+┃  └─ Features: AI predictions, Islamic finance compliance        ┃
+┃                                                                 ┃
+┃  📱 Trading-Journal - Track & Analyze Your Trades               ┃
+┃  📊 charts-analytics-app - Data Visualization Dashboard         ┃
+┃  💤 SlumberAI - AI-Powered Sleep Tracking & Analysis            ┃
+┃  📚 Flashcards-Application - Smart Learning Platform            ┃
+┃  🎴 Luh-Al-Ibadaa - Islamic Application                         ┃
+┃  📝 darijaScript - Darija Programming Language                  ┃
+┃                                                                 ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
@@ -138,16 +138,16 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║  🎯 CORE COMPETENCIES                                            ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    ║
 ║                                                                  ║
-║  ✦ Machine Learning & Deep Learning                             ║
-║  ✦ Neural Networks Architecture                                 ║
-║  ✦ LLMs & NLP Applications                                      ║
-║  ✦ Full-Stack Development (MENN & PENN Stack)                   ║
-║  ✦ AI Model Deployment & Integration                            ║
-║  ✦ Cloud Computing & Microservices                              ║
-║  ✦ Software Architecture & Design Patterns                      ║
-║  ✦ API Development & RESTful Services                           ║
+║  ✦ Machine Learning & Deep Learning                              ║
+║  ✦ Neural Networks Architecture                                  ║
+║  ✦ LLMs & NLP Applications                                       ║
+║  ✦ Full-Stack Development (MENN & PENN Stack)                    ║
+║  ✦ AI Model Deployment & Integration                             ║
+║  ✦ Cloud Computing & Microservices                               ║
+║  ✦ Software Architecture & Design Patterns                       ║
+║  ✦ API Development & RESTful Services                            ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -167,11 +167,11 @@
 ```ascii
 ╔════════════════════════════════════════════════════════════════╗
 ║                                                                ║
-║     📈 1,085 Contributions This Year                          ║
+║     📈 1,085 Contributions This Year                           ║
 ║     ⭐ 13 Stars Received                                       ║
 ║     📦 33 Public Repositories                                  ║
-║     🏆 5+ Years of Coding Experience                          ║
-║     🎯 Self-Taught Developer Since 2020                       ║
+║     🏆 5+ Years of Coding Experience                           ║
+║     🎯 Self-Taught Developer Since 2020                        ║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
@@ -183,14 +183,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouuuuaad&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouuuuaad&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
-</div>
-
 ---
 
 ## 🎓 Learning Journey
@@ -198,22 +190,22 @@
 ```ascii
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│  📚 SELF-TAUGHT DEVELOPER SINCE 2020                           │
-│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│  📚 SELF-TAUGHT DEVELOPER SINCE 2020                            │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │
 │                                                                 │
-│  Built expertise through:                                      │
-│  • Continuous hands-on experimentation                         │
-│  • Real-world problem-solving projects                         │
-│  • Open-source contributions                                   │
-│  • Self-directed learning & documentation                      │
-│  • Building production-ready applications                      │
+│  Built expertise through:                                       │
+│  • Continuous hands-on experimentation                          │
+│  • Real-world problem-solving projects                          │
+│  • Open-source contributions                                    │
+│  • Self-directed learning & documentation                       │
+│  • Building production-ready applications                       │
 │                                                                 │
-│  Focus Areas:                                                  │
-│  ✓ Full-Stack Web Development                                  │
-│  ✓ AI/ML Model Development & Deployment                        │
-│  ✓ Computer Vision & NLP                                       │
-│  ✓ Software Architecture & Clean Code                          │
-│  ✓ Trading & Financial Systems                                 │
+│  Focus Areas:                                                   │
+│  ✓ Full-Stack Web Development                                   │
+│  ✓ AI/ML Model Development & Deployment                         │
+│  ✓ Computer Vision & NLP                                        │
+│  ✓ Software Architecture & Clean Code                           │
+│  ✓ Trading & Financial Systems                                  │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -227,12 +219,12 @@
 ```ascii
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│  🚀 Fast Learner & Problem Solver                           │
-│  💡 Innovation-Driven & User-Centric Approach               │
-│  🎯 Focus on Clean, Scalable Code                           │
-│  🤝 Strong Self-Motivation & Discipline                     │
-│  📈 Continuous Growth Mindset                               │
-│  🔥 Passion for AI & Cutting-Edge Technologies              │
+│  🚀 Fast Learner & Problem Solver                            │
+│  💡 Innovation-Driven & User-Centric Approach                │
+│  🎯 Focus on Clean, Scalable Code                            │
+│  🤝 Strong Self-Motivation & Discipline                      │
+│  📈 Continuous Growth Mindset                                │
+│  🔥 Passion for AI & Cutting-Edge Technologies               │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
@@ -248,10 +240,10 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║  💼 Portfolio:  https://mouuuuaad.vercel.app/            ║
-║  📧 Email:      mouaadidoufkir2@gmail.com                ║
-║  📱 Phone:      +212 721 009 527                         ║
-║  📍 Location:   Agadir, Morocco                          ║
+║  💼 Portfolio:  https://mouuuuaad.vercel.app/             ║
+║  📧 Email:      mouaadidoufkir2@gmail.com                 ║
+║  📱 Phone:      +212 721 009 527                          ║
+║  📍 Location:   Agadir, Morocco                           ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
@@ -269,10 +261,11 @@
 ```ascii
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║  "The best way to predict the future is to create it."          ║
-║                          - Abraham Lincoln                       ║
+║  "The best way to predict the future is to create it."           ║
+║                                                                  ║ 
+║                   - Abraham Lincoln                              ║
 ║                                                                  ║
-║  "Code is poetry written for machines but read by humans."      ║
+║  "Code is poetry written for machines but read by humans."       ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
