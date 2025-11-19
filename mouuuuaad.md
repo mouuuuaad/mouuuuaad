@@ -51,8 +51,8 @@
 │                                                                     │
 │  💻 Languages:     Python • TypeScript • JavaScript • Golang        │
 │  🎨 Frontend:      Vue.js • Next.js • React • Tailwind CSS          │
-│  ⚙️ Backend:       FastAPI • Node.js • Express.js • Fiber • Gin    │
-│  🗄️ Databases:     PostgreSQL • MongoDB • SQLite • Firebase        │
+│  ⚙️ Backend:       FastAPI • Node.js • Express.js • Fiber • Gin     │
+│  🗄️ Databases:     PostgreSQL • MongoDB • SQLite • Firebase         │
 │  🤖 AI/ML:         TensorFlow • PyTorch • Keras • scikit-learn      │
 │  🧠 GenAI:         LangChain • Hugging Face • OpenCV • Genkit       │
 │  📦 Stack:         MENN & PENN Stack                                │
