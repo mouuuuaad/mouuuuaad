@@ -10,7 +10,7 @@
 ║     ██║ ╚═╝ ██║╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝                         ║
 ║     ╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝                          ║
 ║                                                                                   ║
-║    🚀 Software Developer & GenAI Developer | معاذ ادافقير 🇲🇦                          ║    
+║    🚀 Software Developer & GenAI Developer | معاذ ادافقير 🇲🇦                         ║       
 ║        Self-Taught Developer | 5+ Years Experience                                ║
 ║                                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════════════════════╝
@@ -175,15 +175,6 @@
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouuuuaad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouuuuaad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
----
 
 ## 🎓 Learning Journey
 
