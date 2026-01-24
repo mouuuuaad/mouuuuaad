@@ -21,7 +21,7 @@
 ```ascii
           ┌────────────────────────────────────────────────────────────────────┐
           │                                                                    │
-          │  🎯 18 Years Old | Self-Taught Since 2020                          │
+          │  🎯 19 Years Old | Self-Taught Since 2020                          │
           │  🤖 GenAI Developer & AI Enthusiast                                │
           │  💻 Full-Stack Developer (MENN & PENN Stack, Golang , Python)      │
           │  🧠 Machine Learning & Deep Learning Practitioner                  │
