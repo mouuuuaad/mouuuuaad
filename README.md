@@ -101,34 +101,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-```ascii
-          ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-          ┃                                                                 ┃
-          ┃  🧮 Hsebli AI - AI Math Solver (Feb 2025 - Present)             ┃
-          ┃  ├─ Intelligent mathematical expression parser & solver         ┃
-          ┃  ├─ Step-by-step solution generation with symbolic computation  ┃
-          ┃  ├─ Tech: Golang, Next.js, Python, SymPy, PyTorch, PostgreSQL   ┃
-          ┃  └─ Features: LaTeX parsing, error correction, real-time API    ┃
-          ┃                                                                 ┃
-          ┃  📊 0day - Trading & Chart Analysis Platform (Jun-Aug 2025)     ┃
-          ┃  ├─ Shariah-compliant AI-powered trading insights platform      ┃
-          ┃  ├─ Real-time dashboards with advanced chart analysis           ┃
-          ┃  ├─ Tech: Next.js, Python, Genkit, Firebase, PostgreSQL         ┃
-          ┃  └─ Features: AI predictions, Islamic finance compliance        ┃
-          ┃                                                                 ┃
-          ┃  📱 Trading-Journal - Track & Analyze Your Trades               ┃
-          ┃  📊 charts-analytics-app - Data Visualization Dashboard         ┃
-          ┃  💤 SlumberAI - AI-Powered Sleep Tracking & Analysis            ┃
-          ┃  📚 Flashcards-Application - Smart Learning Platform            ┃
-          ┃  🎴 Luh-Al-Ibadaa - Islamic Application                         ┃
-          ┃  📝 darijaScript - Darija Programming Language                  ┃
-          ┃                                                                 ┃
-          ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
 
 ---
 
