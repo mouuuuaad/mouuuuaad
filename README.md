@@ -135,7 +135,7 @@
           ╔════════════════════════════════════════════════════════════════╗
           ║                                                                ║
           ║     📈 1,085 Contributions This Year                           ║
-          ║     ⭐ 13 Stars Received                                       ║
+          ║     ⭐ 27 Stars Received                                       ║
           ║     📦 15 Public Repo & 25 Private Repo                        ║
           ║     🏆 6+ Years of Coding Experience                           ║
           ║     🎯 Self-Taught Developer Since 2020                        ║
