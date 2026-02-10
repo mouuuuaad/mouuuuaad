@@ -1,7 +1,7 @@
 # Mouaad Idoufkir (NZ4) — معاذ ادافقير
 
 **Staff Software Engineer · Generative AI & Systems Researcher**
-GitHub: **mouuuuaad**
+GitHub: **mouuuuaad**                                                                                                                                           
 Website: [https://github.com/mouuuuaad](https://github.com/mouuuuaad)
 LinkedIn: [https://www.linkedin.com/in/mouaad-idoufkir](https://www.linkedin.com/in/mouaad-idoufkir)
 
