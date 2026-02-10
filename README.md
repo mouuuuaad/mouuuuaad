@@ -181,35 +181,17 @@
 
 ```ascii
           ╭──────────────────────────────────────────────────────────────╮
-          │                                                              │
           │  🚀 Fast Learner & Problem Solver                            │
           │  💡 Innovation-Driven & User-Centric Approach                │
           │  🎯 Focus on Clean, Scalable Code                            │
           │  🤝 Strong Self-Motivation & Discipline                      │
           │  📈 Continuous Growth Mindset                                │
           │  🔥 Passion for AI & Cutting-Edge Technologies               │
-          │                                                              │
           ╰──────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-```ascii
-          ╔═══════════════════════════════════════════════════════════╗
-          ║                                                           ║
-          ║  💼 Portfolio:  https://mouuuuaad.vercel.app/             ║
-          ║  📧 Email:      mouaadidoufkir2@gmail.com                 ║
-          ║  📱 Phone:      +212 721 009 527                          ║
-          ║  📍 Location:   Agadir, Morocco                           ║
-          ║                                                           ║
-          ╚═══════════════════════════════════════════════════════════╝
-```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouaad-idoufkir)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MouaadZ1)
@@ -218,20 +200,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-```ascii
-          ╔══════════════════════════════════════════════════════════════════╗
-          ║                                                                  ║
-          ║  "The best way to predict the future is to create it."           ║
-          ║                                                                  ║ 
-          ║                   - Abraham Lincoln                              ║
-          ║                                                                  ║
-          ║  "Code is poetry written for machines but read by humans."       ║
-          ║                                                                  ║
-          ╚══════════════════════════════════════════════════════════════════╝
-```
 
 <img src="https://komarev.com/ghpvc/?username=mouuuuaad&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
