@@ -32,9 +32,9 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mouuuuaad.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://mouuuuaad.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-mouaadidoufkir2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouaadidoufkir2@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B212_721_009_527-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212721009527)
+[![LinkedIn]([https://img.shields.io/badge/Portfolio-mouuuuaad.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouaad-idoufkir))](https://mouuuuaad.vercel.app/)
+[![Email]([https://img.shields.io/badge/Email-mouaadidoufkir2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouaadidoufkir2@gmail.com](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mouuuuaad))
+[![Phone](https://img.shields.io/badge/Phone-%2B212_721_009_527-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212663122588)
 
 </div>
 
@@ -142,16 +142,6 @@
           ║     🎯 Self-Taught Developer Since 2020                        ║
           ║                                                                ║
           ╚════════════════════════════════════════════════════════════════
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouaad-idoufkir)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MouaadZ1)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mouuuuaad)
-
-</div>
 
 ---
 
