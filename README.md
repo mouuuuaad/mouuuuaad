@@ -33,7 +33,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouaad-idoufkir)
-[![Email]([https://img.shields.io/badge/Email-mouaadidoufkir2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouaadidoufkir2@gmail.com](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mouuuuaad))
 [![Phone](https://img.shields.io/badge/Phone-%2B212_721_009_527-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212663122588)
 
 </div>
