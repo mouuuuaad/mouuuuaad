@@ -11,7 +11,7 @@
           ║                ╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝                   ║
           ║                                                                                       ║
           ║                Staff Software Engineer & GenAI Developer | معاذ ادافقير                   ║    
-          ║                     Self-Taught Engineer | 5+ Years Experience                        ║
+          ║                     Self-Taught Engineer | 6+ Years Experience                        ║
           ║                                                                                       ║
           ╚═══════════════════════════════════════════════════════════════════════════════════════╝
 ```
