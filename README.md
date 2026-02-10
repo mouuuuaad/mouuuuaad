@@ -16,11 +16,10 @@
           ╚═══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-## 💫 About Me
+## About Me
 
 ```ascii
           ┌────────────────────────────────────────────────────────────────────┐
-          │                                                                    │
           │  🎯 19 Years Old | Self-Taught Since 2020                          │
           │  🤖 GenAI Developer & AI Enthusiast                                │
           │  💻 Full-Stack Developer (MENN & PENN Stack, Golang , Python)      │
@@ -28,7 +27,6 @@
           │  📍 Agadir, Souss-Massa, Morocco                                   │
           │  📈 1,115+ Contributions This Year                                 │
           │  🌟 Building Intelligent Systems & Modern Web Applications         │
-          │                                                                    │
           └────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -48,7 +46,6 @@
           ╭─────────────────────────────────────────────────────────────────────╮
           │                          TECH STACK                                 │
           ├─────────────────────────────────────────────────────────────────────┤
-          │                                                                     │
           │  💻 Languages:     Python • TypeScript • JavaScript • Golang        │
           │  🎨 Frontend:      Vue.js • Next.js • React • Tailwind CSS          │
           │  ⚙️ Backend:       FastAPI • Node.js • Express.js • Fiber • Gin     │
@@ -57,11 +54,10 @@
           │  🧠 GenAI:         LangChain • Hugging Face • OpenCV • Genkit       │
           │  📦 Stack:         MENN & PENN Stack                                │
           │  🐳 DevOps:        Docker • Kubernetes • Git                        │
-          │                                                                     │
           ╰─────────────────────────────────────────────────────────────────────╯
 ```
 
-### 🔧 Core Technologies
+###  Core Technologies
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -104,12 +100,12 @@
 
 ---
 
-## 💼 Professional Experience Highlights
+## Professional Experience Highlights
 
 ```ascii
           ╔══════════════════════════════════════════════════════════════════╗
           ║                                                                  ║
-          ║  🎯 CORE COMPETENCIES                                            ║
+          ║   CORE COMPETENCIES                                            ║
           ║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    ║
           ║                                                                  ║
           ║  ✦ Machine Learning & Deep Learning                              ║
@@ -124,7 +120,7 @@
           ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-**💡 What I Do:**
+** What I Do:**
 - Build intelligent systems combining AI/ML with modern web technologies
 - Develop scalable full-stack applications using MENN & PENN stacks
 - Create data-driven solutions with advanced analytics and visualization
@@ -134,61 +130,21 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 ```ascii
           ╔════════════════════════════════════════════════════════════════╗
           ║                                                                ║
           ║     📈 1,085 Contributions This Year                           ║
           ║     ⭐ 13 Stars Received                                       ║
-          ║     📦 13 Public Repo & 20 Private Repo                        ║
-          ║     🏆 5+ Years of Coding Experience                           ║
+          ║     📦 15 Public Repo & 25 Private Repo                        ║
+          ║     🏆 6+ Years of Coding Experience                           ║
           ║     🎯 Self-Taught Developer Since 2020                        ║
           ║                                                                ║
-          ╚════════════════════════════════════════════════════════════════╝
-```
-
-## 🎓 Learning Journey
-
-```ascii
-          ┌─────────────────────────────────────────────────────────────────┐
-          │                                                                 │
-          │  📚 SELF-TAUGHT DEVELOPER SINCE 2020                            │
-          │  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     │
-          │                                                                 │
-          │  Built expertise through:                                       │
-          │  • Continuous hands-on experimentation                          │
-          │  • Real-world problem-solving projects                          │
-          │  • Open-source contributions                                    │
-          │  • Self-directed learning & documentation                       │
-          │  • Building production-ready applications                       │
-          │                                                                 │
-          │  Focus Areas:                                                   │
-          │  ✓ Full-Stack Web Development                                   │
-          │  ✓ AI/ML Model Development & Deployment                         │
-          │  ✓ Computer Vision & NLP                                        │
-          │  ✓ Software Architecture & Clean Code                           │
-          │  ✓ Trading & Financial Systems                                  │
-          │                                                                 │
-          └─────────────────────────────────────────────────────────────────┘
-```
+          ╚════════════════════════════════════════════════════════════════
 
 ---
 
-## 🌟 What Sets Me Apart
-
-<div align="center">
-
-```ascii
-          ╭──────────────────────────────────────────────────────────────╮
-          │  🚀 Fast Learner & Problem Solver                            │
-          │  💡 Innovation-Driven & User-Centric Approach                │
-          │  🎯 Focus on Clean, Scalable Code                            │
-          │  🤝 Strong Self-Motivation & Discipline                      │
-          │  📈 Continuous Growth Mindset                                │
-          │  🔥 Passion for AI & Cutting-Edge Technologies               │
-          ╰──────────────────────────────────────────────────────────────╯
-```
 
 </div>
 
@@ -203,8 +159,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=mouuuuaad&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-### ⭐ From [mouuuuaad](https://github.com/mouuuuaad) with 💚
+### ⭐ From [mouuuuaad](https://github.com/mouuuuaad) with 
 
-*Built with passion, powered by curiosity, driven by innovation* 🚀
+*Built with passion, powered by curiosity, driven by innovation* 
 
 </div>
