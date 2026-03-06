@@ -11,7 +11,7 @@ LinkedIn: [https://www.linkedin.com/in/mouaad-idoufkir](https://www.linkedin.com
 
 I am a Staff Software Engineer working at the intersection of **systems engineering, programming languages, and Generative AI**. My focus is on building software that is not only fast and scalable, but also conceptually clean and architecturally sound.
 
-I spend most of my time designing **low-level systems**—compilers, runtimes, and high‑performance backends—where correctness, predictability, and long‑term maintainability matter more than short‑term convenience. I care deeply about understanding *how things work under the hood* and making design decisions explicit rather than implicit.
+I spend most of my time designing **low-level systems** compilers, runtimes, and high‑performance backends where correctness, predictability, and long term maintainability matter more than short‑term convenience. I care deeply about understanding *how things work under the hood* and making design decisions explicit rather than implicit.
 
 My core technical background includes **Rust, Go, Python, and Node.js**, with hands‑on experience across compiler construction, distributed systems, and production AI infrastructure.
 
@@ -40,20 +40,20 @@ ARNm is a **statically typed, compiled systems language** designed from first pr
 * Formalize a lightweight actor model with strict memory isolation
 * Achieve near–zero-cost abstractions through direct x86_64 code generation
 * Design a runtime scheduler capable of supporting millions of concurrent actors
-* Explore compiler–runtime co-design for safety and performance
+* Explore compiler runtime co design for safety and performance
 
 **Key Properties**
 
 * Native actor-based concurrency with message passing
-* Static typing with compile-time guarantees
+* Static typing with compile time guarantees
 * Optimized SSA-based backend emitting x86_64 assembly
-* User-space scheduler and mailbox-driven runtime
+* User-space scheduler and mailbox driven runtime
 
 ---
 
 ## System-Level Architecture (High-Level)
 
-ARNm is built as a **layered systems architecture**, intentionally designed to make responsibilities clear and behavior predictable. Rather than relying on hidden runtime magic, the language follows a *compiler–runtime co-design* approach where each layer has a well-defined role.
+ARNm is built as a **layered systems architecture**, intentionally designed to make responsibilities clear and behavior predictable. Rather than relying on hidden runtime magic, the language follows a *compiler–runtime co design* approach where each layer has a well-defined role.
 
 ### Architectural Layers
 
@@ -64,7 +64,7 @@ Defines the programming model itself. The actor abstraction enforces isolated st
 Responsible for enforcing correctness before execution. The type system and semantic checks aim to eliminate entire classes of errors early, especially those related to concurrency and invalid state transitions.
 
 **3. Compiler Core (arnmc)**
-Transforms source code into machine code through a traditional but explicit pipeline: parsing, semantic analysis, SSA-based IR construction, optimization, and architecture-aware code generation targeting x86_64. The goal is transparency rather than abstraction leakage.
+Transforms source code into machine code through a traditional but explicit pipeline: parsing, semantic analysis, SSA-based IR construction, optimization, and architecture aware code generation targeting x86_64. The goal is transparency rather than abstraction leakage.
 
 **4. Runtime System (libarnm)**
 Provides execution support without becoming a virtual machine. Actors are lightweight execution contexts scheduled in user space, communicating through mailboxes with minimal synchronization overhead.
@@ -82,7 +82,7 @@ ARNm employs a **many-actor / few-thread** model:
 * Central scheduler performs load balancing and wake-up signaling
 * Actors execute in isolation and communicate strictly via messages
 
-This model achieves scalability comparable to Erlang-style systems while preserving low-level performance characteristics.
+This model achieves scalability comparable to Erlang style systems while preserving low level performance characteristics.
 
 ---
 
@@ -107,7 +107,7 @@ ARNm intentionally avoids heavyweight abstractions (GC-heavy VMs, reflection, dy
 * 15 mathematical modules
 * 124 in-depth chapters
 * Covers calculus, linear algebra, probability, optimization, graph theory, and differential equations
-* All implementations written in **pure Go**, with production-grade correctness and test coverage
+* All implementations written in **pure Go**, with production grade correctness and test coverage
 
 The project emphasizes algorithmic clarity, numerical stability, and educational rigor.
 
